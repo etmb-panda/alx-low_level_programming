@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * print_alphabet_x10
+ * print_alphabet_x10:start point
  *
  * followed by a new line
+ * return 0 if successful
  */
 void print_alphabet_x10(void)
 {
